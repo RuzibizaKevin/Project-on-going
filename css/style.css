@@ -37,4 +37,6 @@ p {
 #showcase .showcase-right{
 	margin-top: 90px;
 }
-
+#showcase .btn{
+	height: 45px;
+}
